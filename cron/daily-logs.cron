@@ -1,0 +1,2 @@
+# Daily GitHub contribution commit at 21:00 local time.
+0 21 * * * /Users/maulanabayu/Documents/01\ Projects/daily-logs/scripts/daily-commit.sh >> /Users/maulanabayu/Documents/01\ Projects/daily-logs/daily-cron.log 2>&1
